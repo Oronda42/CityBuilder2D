@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: 7e8b03e48b0f60444b6225ead5f4ddd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5581659188364879975
+    second: CitizenSheet_0
+  - first:
+      213: -6592182132637018259
+    second: CitizenSheet_1
+  - first:
+      213: 2572452346720472123
+    second: CitizenSheet_2
+  - first:
+      213: -72768919573829013
+    second: CitizenSheet_3
+  - first:
+      213: 9100200437653530121
+    second: CitizenSheet_4
+  - first:
+      213: 7394183066470328711
+    second: CitizenSheet_5
+  - first:
+      213: -8941554049881197752
+    second: CitizenSheet_6
+  - first:
+      213: -494169717243661960
+    second: CitizenSheet_7
+  - first:
+      213: -7380687796474600986
+    second: CitizenSheet_8
+  - first:
+      213: 3346202692935348256
+    second: CitizenSheet_9
+  - first:
+      213: -2894056346366072899
+    second: CitizenSheet_10
+  - first:
+      213: 1633832612506668298
+    second: CitizenSheet_11
+  - first:
+      213: 8256240013107337182
+    second: CitizenSheet_12
+  - first:
+      213: -9124348187121856991
+    second: CitizenSheet_13
+  - first:
+      213: 4622746299415771591
+    second: CitizenSheet_14
+  - first:
+      213: 1594689263597912685
+    second: CitizenSheet_15
+  - first:
+      213: -2398038202456514427
+    second: CitizenSheet_16
+  - first:
+      213: 5757974272225128315
+    second: CitizenSheet_17
+  - first:
+      213: -1532947888117947240
+    second: CitizenSheet_18
+  - first:
+      213: -2112617616854603519
+    second: CitizenSheet_19
+  - first:
+      213: 2344186097468917333
+    second: CitizenSheet_20
+  - first:
+      213: 53204962012445746
+    second: CitizenSheet_21
+  - first:
+      213: -4331646337215660154
+    second: CitizenSheet_22
+  - first:
+      213: -2717134767225380983
+    second: CitizenSheet_23
+  - first:
+      213: 1510476923535792394
+    second: CitizenSheet_24
+  - first:
+      213: -5744592084908765638
+    second: CitizenSheet_25
+  - first:
+      213: 3575607181481994381
+    second: CitizenSheet_26
+  - first:
+      213: 3061458023976638962
+    second: CitizenSheet_27
+  - first:
+      213: 4654122345518193949
+    second: CitizenSheet_28
+  - first:
+      213: 5364840421969657019
+    second: CitizenSheet_29
+  - first:
+      213: 7923758919393923175
+    second: CitizenSheet_30
+  - first:
+      213: -5873425358795004912
+    second: CitizenSheet_31
+  - first:
+      213: 3428368892407997245
+    second: CitizenSheet_32
+  - first:
+      213: 7583779937303246187
+    second: CitizenSheet_33
+  - first:
+      213: 7832389133482573161
+    second: CitizenSheet_34
+  - first:
+      213: -7688514152151778401
+    second: CitizenSheet_35
+  - first:
+      213: 6647473817599336987
+    second: CitizenSheet_36
+  - first:
+      213: -6738339816840448015
+    second: CitizenSheet_37
+  - first:
+      213: 6205194596582247874
+    second: CitizenSheet_38
+  - first:
+      213: 1947233606400685029
+    second: CitizenSheet_39
+  - first:
+      213: 7149353385678662121
+    second: CitizenSheet_40
+  - first:
+      213: 2550073688040896032
+    second: CitizenSheet_41
+  - first:
+      213: -5192297625627486961
+    second: CitizenSheet_42
+  - first:
+      213: 6243517110114724861
+    second: CitizenSheet_43
+  - first:
+      213: 8225664975308970862
+    second: CitizenSheet_44
+  - first:
+      213: 7800197164790244675
+    second: CitizenSheet_45
+  - first:
+      213: -5011886176010601705
+    second: CitizenSheet_46
+  - first:
+      213: -2162512549324627248
+    second: CitizenSheet_47
+  - first:
+      213: 3864137680131010594
+    second: CitizenSheet_48
+  - first:
+      213: 3357878238582675425
+    second: CitizenSheet_49
+  - first:
+      213: 47571562293718764
+    second: CitizenSheet_50
+  - first:
+      213: 5192431745680265365
+    second: CitizenSheet_51
+  - first:
+      213: 4898131465554697309
+    second: CitizenSheet_52
+  - first:
+      213: -9042874810177298898
+    second: CitizenSheet_53
+  - first:
+      213: -811662666707551676
+    second: CitizenSheet_54
+  - first:
+      213: -474520485436314646
+    second: CitizenSheet_55
+  - first:
+      213: 812324503328464589
+    second: CitizenSheet_56
+  - first:
+      213: -5909681411950287976
+    second: CitizenSheet_57
+  - first:
+      213: 4572804368373379353
+    second: CitizenSheet_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CitizenSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 22
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5305911, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a8cb7579067d40800000000000000
+      internalID: 5581659188364879975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 204
+        width: 22
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d675e79f64dd384a0800000000000000
+      internalID: -6592182132637018259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc4e7a7cf23b320800000000000000
+      internalID: 2572452346720472123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aec1e9d097dfef0800000000000000
+      internalID: -72768919573829013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906613745186a4e70800000000000000
+      internalID: 9100200437653530121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892c29a25a6d9660800000000000000
+      internalID: 7394183066470328711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84330ec47f739e380800000000000000
+      internalID: -8941554049881197752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871bfe8a24b5429f0800000000000000
+      internalID: -494169717243661960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1221dbd87829990800000000000000
+      internalID: -7380687796474600986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fddace99107e20800000000000000
+      internalID: 3346202692935348256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a2ea161f36d7d0800000000000000
+      internalID: -2894056346366072899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 204
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d88eaca1a8ca610800000000000000
+      internalID: 1633832612506668298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed711a96c8e049270800000000000000
+      internalID: 8256240013107337182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4f9baaadcf5180800000000000000
+      internalID: -9124348187121856991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9bd67544b472040800000000000000
+      internalID: 4622746299415771591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6202ebaf69712610800000000000000
+      internalID: 1594689263597912685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58063c0d5f478bed0800000000000000
+      internalID: -2398038202456514427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f21d1f71f68ef40800000000000000
+      internalID: 5757974272225128315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946b858400e9bae0800000000000000
+      internalID: -1532947888117947240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109262978797ea2e0800000000000000
+      internalID: -2112617616854603519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564b0be5d8388020800000000000000
+      internalID: 2344186097468917333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3a0d81a50db000800000000000000
+      internalID: 53204962012445746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f73a93b96e2e3c0800000000000000
+      internalID: -4331646337215660154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 153
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fdaa0435cca4ad0800000000000000
+      internalID: -2717134767225380983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0996c452ca46f410800000000000000
+      internalID: 1510476923535792394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0e775feb1740b0800000000000000
+      internalID: -5744592084908765638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e19489cb1f9130800000000000000
+      internalID: 3575607181481994381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f995ed3adb7c7a20800000000000000
+      internalID: 3061458023976638962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd1d95d93c69040800000000000000
+      internalID: 4654122345518193949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc782c80fdb37a40800000000000000
+      internalID: 5364840421969657019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760de4c51c8d6fd60800000000000000
+      internalID: 7923758919393923175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a04241c66d7ea0800000000000000
+      internalID: -5873425358795004912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336af6e753049f20800000000000000
+      internalID: 3428368892407997245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b1b12caffe3960800000000000000
+      internalID: 7583779937303246187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dbbdb4b6c32bc60800000000000000
+      internalID: 7832389133482573161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 102
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bfd663d19ec4590800000000000000
+      internalID: -7688514152151778401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e7bf9732904c50800000000000000
+      internalID: 6647473817599336987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ba5943ab9c72a0800000000000000
+      internalID: -6738339816840448015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd457beb974d1650800000000000000
+      internalID: 6205194596582247874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3373ce5a6f50b10800000000000000
+      internalID: 1947233606400685029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ec1f760b973360800000000000000
+      internalID: 7149353385678662121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267fb6228ea36320800000000000000
+      internalID: 2550073688040896032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059e58c1d041f7b0800000000000000
+      internalID: -5192297625627486961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb26796bbd65a650800000000000000
+      internalID: 6243517110114724861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd9aea6be672270800000000000000
+      internalID: 8225664975308970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e4518efddf3c60800000000000000
+      internalID: 7800197164790244675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7238b314327ab0800000000000000
+      internalID: -5011886176010601705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 51
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26e2b3b463df1e0800000000000000
+      internalID: -2162512549324627248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220396b3fbc20a530800000000000000
+      internalID: 3864137680131010594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71cb99774999e20800000000000000
+      internalID: 3357878238582675425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6de7751209a000800000000000000
+      internalID: 47571562293718764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dbb979293f0840800000000000000
+      internalID: 5192431745680265365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1d83dd98a9f340800000000000000
+      internalID: 4898131465554697309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edd077541418280800000000000000
+      internalID: -9042874810177298898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a3371ea156cb4f0800000000000000
+      internalID: -811662666707551676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2ce2f12a2a69f0800000000000000
+      internalID: -474520485436314646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1d37f4d4f54b00800000000000000
+      internalID: 812324503328464589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89369f011189cfda0800000000000000
+      internalID: -5909681411950287976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CitizenSheet_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ff34685dd57f30800000000000000
+      internalID: 4572804368373379353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
